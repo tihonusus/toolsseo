@@ -1,0 +1,16 @@
+.mt-10 {
+    margin-top: 10px;
+}
+.mt-20 {
+    margin-top: 20px;
+}
+.logo-header,#share{display:inline-block}
+.nav-tabs>li>a {border-radius: 0px;cursor:pointer}
+
+/* Google Snippet */
+.gSnippet{width:100%;padding:18px;border:solid 1px #CCC;background-color:#ffffff}
+.gTitle{font-family:'Roboto',arial,sans-serif;font-size:18px;color:#1a0dab;white-space:nowrap;text-overflow:ellipsis;display:block;overflow:hidden;line-height:23px}
+.gURL{font-family:'Roboto',arial,sans-serif;font-size:14px;color:#006621;margin-top:-4px;line-height:25px;white-space:nowrap;text-overflow:ellipsis;overflow:hidden}
+.gDesc{font-family:'Roboto',arial,sans-serif;font-size:13px;color:#545454;margin-top:-4px;line-height:18px}
+.gTitle:hover{cursor:pointer;text-decoration:underline}
+
