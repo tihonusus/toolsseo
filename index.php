@@ -13,6 +13,11 @@
 		<div ng-view>
 		</div>
 	</div>
+	<footer class="footer">
+	    <div class="container">
+	   		<span class="text-muted">Dev by NguyenNam from Vietnam with <i class="fa fa-heart"></i></span>
+	    </div>
+    </footer>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.9/angular.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.9/angular-route.min.js"></script>
